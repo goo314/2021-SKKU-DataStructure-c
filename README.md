@@ -1,1 +1,1 @@
-# 2021-1st-Data-Structure
+# 2021-SKKU-DataStructure-c
